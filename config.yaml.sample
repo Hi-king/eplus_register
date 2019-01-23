@@ -1,0 +1,4 @@
+loginId: 123456789
+loginPassword: password
+cardSelectorDOM: creditCardId_0012345678
+cardCVC: 111
